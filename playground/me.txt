@@ -1,3 +1,0 @@
-Name: Bhargav repaka
-Skills: HTML, CSS, JS, React.js, Node.js, Express.js Mongodb
-Email: repaka.bhargav@gmail.com
